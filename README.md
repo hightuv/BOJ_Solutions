@@ -1,4 +1,4 @@
-# BOJ Solutions
+# BOJ_Solutions
 
 ## Description
 Repository for recording my solutions to the questions from [BOJ](https://www.acmicpc.net/).
