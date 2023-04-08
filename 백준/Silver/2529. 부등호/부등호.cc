@@ -71,7 +71,6 @@ void dfs(int count) {
 }
 
 int main() {
-    
     cin >> k;
 
     for (int i = 0; i < k; i++) {
