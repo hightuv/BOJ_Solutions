@@ -8,8 +8,6 @@ int A[11];
 
 int n;
 
-bool found = false;
-
 bool check(int idx) {
     int tmp;
     char sign;
@@ -57,9 +55,6 @@ void dfs(int count) {
 }
 
 int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(0);
-
     cin >> n;
 
     cin >> input;
