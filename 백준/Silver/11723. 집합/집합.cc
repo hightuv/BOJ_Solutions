@@ -11,7 +11,6 @@ int x; // 1 <= x <= 20 (Can represent using 32 bits)
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(0);
-    cout.tie(0);
 
     cin >> M;
 
